@@ -3,8 +3,6 @@ layout: default
 description: Template for team page
 ---
 
-{{ content }}
-
 {% for member in site.data.team %}
   <div class="media team-member">
     <img class="mr-3" src="{{ member.image | relative_url }}">
@@ -46,4 +44,6 @@ description: Template for team page
     </div>
   </div>
 {% endfor %}
+
+{{content }}
 

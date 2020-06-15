@@ -17,7 +17,7 @@ See [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/m
 ###### Heading h6
 ###### Heading with custom id {#custom_id}
 
-{: .alert .alert-info }
+{: .alert .alert-custom }
 It's best to start page/post headings at h2, since the page/post title will already be an h1.
 
 ## Paragraphs
