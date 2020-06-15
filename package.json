@@ -1,20 +1,20 @@
 {
-  "name": "petridish",
+  "name": "habits-lab",
   "version": "1.0.0",
-  "description": "Jekyll theme for research project websites.",
-  "author": "Peter Desmet",
+  "description": "Lab research static web site",
+  "author": "Tim Truty",
   "license": "MIT",
-  "homepage": "https://github.com/peterdesmet/petridish",
+  "homepage": "",
   "keywords": [
     "jekyll",
     "theme"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/peterdesmet/petridish.git"
+    "url": "https://github.com/ttruty/static-website-example"
   },
   "bugs": {
-    "url": "https://github.com/peterdesmet/petridish/issues"
+    "url": "https://github.com/ttruty/static-website-example/issues"
   },
   "scripts": {
     "copy:bootstrap-scss": "cp -r node_modules/bootstrap/scss/* _sass/bootstrap",
@@ -28,7 +28,7 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.14.7",
     "anchor-js": "^4.2.0"
   }
