@@ -6,3 +6,5 @@ publication: Journal of Fancier Research
 year: 2020
 doi: http://dx.doi.org/XX.XXX/
 ---
+
+Stuff about this publication
