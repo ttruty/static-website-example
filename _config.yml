@@ -28,8 +28,8 @@ archive_permalink: /blog/               # Permalink of page using archive.html l
 logo: /assets/img/habits-logo.png  # Logo in navbar, will be displayed with 30px height
 colors:
   links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+  banner: "#4E2A84"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#836EAA"                     # Background color for footer: use color that contrasts well with white
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 
 # BUILD SETTINGS
@@ -61,4 +61,4 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
+      layout: "default"                 # Only required for website, implied for sites using a theme

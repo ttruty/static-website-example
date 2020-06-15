@@ -1,12 +1,12 @@
 ---
 layout: home
 title: HABits LAB
-description: Towards developing a theme for research project websites
+description: TO CHANGE BEHAVIOR WE MUST UNDERSTAND, SENSE, DETECT, PREDICT AND PREVENT
 background: /assets/img/frontimage.jpg
 permalink: /
 ---
 
-{: .alert .alert-info}
+{: .alert .alert-custom}
 Sample design for HABITS LAB WEBSITE:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a nisl nec sem fringilla commodo. Quisque luctus velit at pretium luctus. Donec nec erat purus. Curabitur at nulla commodo, dictum justo a, suscipit justo. Suspendisse sed leo ante. Pellentesque sed purus sit amet erat sagittis volutpat id ut enim. Morbi sed vulputate massa. Fusce interdum scelerisque turpis, vel placerat lacus facilisis ut. Phasellus convallis nec velit vel aliquam. Proin rutrum porta mi, vel fermentum lorem tempus eget. Morbi condimentum, metus in facilisis semper, lectus diam vestibulum metus, in euismod libero augue non nisi. Vivamus porttitor vulputate sapien vel scelerisque. Integer sollicitudin efficitur velit ac gravida. Fusce fermentum sapien nec urna maximus blandit. Nulla cursus in eros eget malesuada. Vestibulum dapibus sollicitudin egestas.
