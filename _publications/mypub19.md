@@ -1,8 +1,8 @@
 ---
 layout: default
-title: A New Method for Fancy Research
-authors: John Doe and Mary Jane
-publication: Journal of Fancy Research
-year: 2019
+title: Another New Method for Fancy Research
+authors: Kevin Doe and Mary Smith
+publication: Journal of Fancier Research
+year: 2020
 doi: http://dx.doi.org/XX.XXX/
 ---
