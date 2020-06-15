@@ -56,4 +56,5 @@ $custom_rounded: "{{ site.rounded_corners }}";
   @import "_content";           // Content
   @import "_card";              // Blog post card
   @import "_team";              // Team members
+  @import "_publications";         // Publications
 @import "_footer";              // Footer

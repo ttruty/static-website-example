@@ -1,16 +1,17 @@
 ---
 layout: home
-title: Our research project
+title: HABits LAB
 description: Towards developing a theme for research project websites
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+background: /assets/img/frontimage.jpg
 permalink: /
 ---
 
 {: .alert .alert-info}
-This is a demo website for [Petridish](https://github.com/peterdesmet/petridish): a Jekyll theme for research project websites.
+Sample design for HABITS LAB WEBSITE:
 
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a nisl nec sem fringilla commodo. Quisque luctus velit at pretium luctus. Donec nec erat purus. Curabitur at nulla commodo, dictum justo a, suscipit justo. Suspendisse sed leo ante. Pellentesque sed purus sit amet erat sagittis volutpat id ut enim. Morbi sed vulputate massa. Fusce interdum scelerisque turpis, vel placerat lacus facilisis ut. Phasellus convallis nec velit vel aliquam. Proin rutrum porta mi, vel fermentum lorem tempus eget. Morbi condimentum, metus in facilisis semper, lectus diam vestibulum metus, in euismod libero augue non nisi. Vivamus porttitor vulputate sapien vel scelerisque. Integer sollicitudin efficitur velit ac gravida. Fusce fermentum sapien nec urna maximus blandit. Nulla cursus in eros eget malesuada. Vestibulum dapibus sollicitudin egestas.
 
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+Phasellus non risus at tortor fermentum euismod. In dictum nunc in leo ornare aliquam. Phasellus eget metus et tortor hendrerit malesuada. Integer rutrum vulputate mauris, et ultricies odio aliquam ut. Phasellus imperdiet dui nec luctus elementum. Duis eget ipsum est. Aliquam erat volutpat. Duis accumsan leo id ligula blandit, et cursus leo vulputate. Sed fringilla interdum justo ut commodo. Etiam sed mauris fermentum, blandit tortor ac, suscipit enim. Sed augue est, venenatis ornare dictum mattis, feugiat sed nisl. Suspendisse eget aliquam massa. Vestibulum varius tristique vestibulum. Duis arcu odio, placerat et velit ut, accumsan aliquam tortor. Vivamus tristique leo quam, vel molestie orci pellentesque sed.
+
 
 
