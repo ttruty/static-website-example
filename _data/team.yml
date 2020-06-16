@@ -9,6 +9,71 @@
   email: your.email@example.com
   github: github_name
   twitter: twitter_name
+  
+- name: Sougata Sen
+  role: Ph. D, Postdoctoral Scholar # Will appear next to name
+  image: assets/team/sougata.png # Can be external link
+  description: > # Can be Markdown
+      Northwestern University, Computer Science, McCormick School of Engineering. Research- Human-centered machine learning and data mining.
+  email: your.email@example.com
+  github: github_name
+  twitter: twitter_name
+
+- name: Rawan Alharbi
+  role: Ph. D Candidate # Will appear next to name
+  image: assets/team/rawan.jpg # Can be external link
+  description: > # Can be Markdown
+      Northwestern University, Computer Science, McCormick School of Engineering. Research-  Human-centered machine learning and behavior recognition.
+  email: your.email@example.com
+  github: github_name
+  twitter: twitter_name
+
+- name: Shibo Zhang
+  role: Ph. D Student # Will appear next to name
+  image: assets/team/shibo.jpg # Can be external link
+  description: > # Can be Markdown
+      Northwestern University, Computer Science, McCormick School of Engineering. Research-  Machine learning, deep learning, human activity recognition.
+  email: your.email@example.com
+  github: github_name
+  twitter: twitter_name
+
+- name: Jayalakshmi Jain
+  role: Lab Manager # Will appear next to name
+  image: assets/team/jaya.jpg # Can be external link
+  description: > # Can be Markdown
+      Northwestern University, Computer Science, McCormick School of Engineering. Research-  mHealth, stress, UV exposure and cancer.
+  email: your.email@example.com
+  github: github_name
+  twitter: twitter_name
+
+- name: Chris Romano
+  role: B.S., Research Study Assistant # Will appear next to name
+  image: assets/team/chris.png # Can be external link
+  description: > # Can be Markdown
+      Northwestern University, Computer Science, McCormick School of Engineering. Coordinator of Calorie Harmony Study
+  email: your.email@example.com
+  github: github_name
+  twitter: twitter_name
+
+- name: Wilson Wang
+  role: Masters Student # Will appear next to name
+  image: assets/team/Wilson.jpg # Can be external link
+  description: > # Can be Markdown
+      Northwestern University, Computer Science, McCormick School of Engineering. Research-  Machine learning and data mining.
+  email: your.email@example.com
+  github: github_name
+  twitter: twitter_name
+
+- name: Tim Truty
+  role: Software Engineer Associate # Will appear next to name
+  image: assets/team/tim.jpg # Can be external link
+  description: > # Can be Markdown
+      Northwestern University, Computer Science, McCormick School of Engineering. Creating clean shareable research code.
+  email: your.email@example.com
+  github: github_name
+  twitter: twitter_name
+
+
 
 # - name: Turanga Leela
 #   role: Captain
