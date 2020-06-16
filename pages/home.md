@@ -2,7 +2,7 @@
 layout: home
 title: HABits LAB
 description: TO CHANGE BEHAVIOR WE MUST UNDERSTAND, SENSE, DETECT, PREDICT AND PREVENT
-background: /assets/img/frontimage.jpg
+background: /assets/img/nwcolor.jpg
 permalink: /
 ---
 
