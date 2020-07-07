@@ -3,6 +3,7 @@ layout: team
 title: Team
 description: Who we are
 permalink: /team/
+background: https://images.unsplash.com/photo-1505424297051-c3ad50b055ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80
 ---
 
 <!-- On this page you can list team members by defining them in [`_data/team.yml`]. -->

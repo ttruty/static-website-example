@@ -19,12 +19,17 @@ remark: See also page.layout == 'home' in head.html and jumbotron.html
       {% include card.html %}
     </div>
   {% endfor %}
-  </div>
-{% endif %}
-  <div class="{% if twitter_feed %}col{% else %}col-md-10 col-lg-8 mx-auto{% endif %}">
-    <div class="row">
-      <div class="col">
+</div>
 
+
+
+
+{% endif %}
+<div class="{% if twitter_feed %}col{% else %}col-md-10 col-lg-8 mx-auto{% endif %}">
+  <div class="row">
+    <div class="col">
+      
+        {%- include director.html -%}
         {{ content }}
 
       </div>
@@ -38,7 +43,5 @@ remark: See also page.layout == 'home' in head.html and jumbotron.html
       </div>
     {% endif %}
     </div>
-    
-
 </div>
 
