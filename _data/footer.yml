@@ -13,7 +13,7 @@ columns:
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      (312) 503-4517 680 N. Lakeshore Dr., Suite 1400, Chicago, IL 60611
+      (312) 503-4517 | 680 N. Lakeshore Dr., Suite 1400, Chicago, IL 60611
       
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown

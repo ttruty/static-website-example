@@ -1323,6 +1323,8 @@ a.badge-footer:focus, a.badge-footer.focus { outline: 0; box-shadow: 0 0 0 0.2re
 
 .media-body { flex: 1; }
 
+.media-dir { flex: 4; }
+
 .list-group { display: flex; flex-direction: column; padding-left: 0; margin-bottom: 0; }
 
 .list-group-item-action { width: 100%; color: #495057; text-align: inherit; }
@@ -2763,9 +2765,16 @@ body > main { min-height: calc(100vh - 54px); padding-bottom: 30px; }
 .card .card-footer .badge { border: 1px solid #007bff; font-family: "Roboto", sans-serif; text-transform: uppercase; }
 .card .card-footer .badge:hover, .card .card-footer .badge:focus { border: 1px solid #0056b3; }
 
-.team-member { margin-bottom: 30px; }
-.team-member > img { height: 100px; width: 100px; border-radius: 100px; border: 3px solid #e9ecef; }
+.team-member { margin-bottom: 30px; display: inline-grid; grid-template-columns: 100px 100px 100px; grid-gap: 3px; }
+.team-member .role { font-size: small; }
+.team-member .description-text { font-size: x-small; }
+.team-member .team-text { display: inline-flex; width: 500px; }
+.team-member > img { width: 100px; border-radius: 100px; border: 3px solid #e9ecef; }
 .team-member .orcid { height: 16px; width: 16px; margin-top: -3px; }
+
+.director { display: flex; padding: 10px; }
+.director .dir-text { display: inline-flex; font-weight: bold; }
+.director > img { width: 200px; border-radius: 200px; border: 3px solid #e9ecef; }
 
 .pubitem { margin: 2em 0; line-height: 1em; }
 .pubitem .pubtitle { margin-bottom: .5em; line-height: 1.2em; font-weight: bold; }
@@ -2774,6 +2783,9 @@ body > main { min-height: calc(100vh - 54px); padding-bottom: 30px; }
 .pubitem .pubteaser a { float: left; margin-right: 2em; }
 .pubitem .pubteaser img { width: 100px; border: 1px solid black; }
 .pubitem .publinks { font-size: 75%; }
+.pubitem .publinks a { background-color: white; color: black; padding: 5px; text-decoration: none; border: 1px solid black; }
+.pubitem .publinks a:hover { background-color: black; color: white; }
+.pubitem .publinks i { padding-right: 5px; }
 
 body > footer { background-color: #836EAA; border-top: 5px solid white; color: white; font-size: 0.9rem; padding: 15px 0; }
 body > footer .container { margin-top: 1rem; }

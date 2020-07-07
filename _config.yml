@@ -21,6 +21,15 @@ collections:
     output: true
     permalink: /:collection/:name
 
+# Director About Section
+about_title: Director of Lab - Nabil Alshurafa 
+director_profile_image: /assets/img/director.jpg
+director_overview: Ph. D, Director of HAbits Lab, Northwestern University, Preventive Medicine, Feinberg School of Medicine, Computer Science, McCormick School of Engineering
+director_content: | # this will include new lines to allow paragraphs
+  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+
+
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
